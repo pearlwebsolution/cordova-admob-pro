@@ -2,7 +2,7 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android"
-        id="cordova-plugin-admobpro"
+        id="cordova-plugin-admobpro-pearl"
         version="2.29.21">
       
     <name>AdMob Plugin Pro</name>
